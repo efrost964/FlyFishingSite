@@ -1,0 +1,28 @@
+* { font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 15px;
+}
+header {
+    color:yellow;
+    text-align: center;
+    background-image: url("images/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10%;
+}
+h2 {
+    text-align: center;
+    font-size: large;
+}
+footer{
+    text-align: right;
+}
+.imageClass{
+    border: 5px solid black;    
+}
+#madRiverOutfitters{
+    font-size: larger;
+    color: red;
+}
+
